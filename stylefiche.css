@@ -21,6 +21,11 @@
 
 .photoDor
 {
-	position: fixed ;
-	right: 40px; top: 60px;
+	position: relative ;
+	left: 540px; bottom: 100px;
+}
+
+.titrecollege
+{
+
 }
