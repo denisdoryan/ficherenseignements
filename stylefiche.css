@@ -34,3 +34,41 @@
 {
 	color: green; background-color: lime;
 }
+
+.photocollege
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.photolycee
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.college
+{
+	background-color: aqua;
+	border: 2px ridge black;
+}
+
+.lycee
+{
+	background-color: lime;
+	border: 2px ridge black;
+}
+
+.sitecollege
+{
+	display: block;
+    text-align: center;
+}
+
+.sitelycee
+{
+	display: block;
+    text-align: center;
+}
