@@ -1,3 +1,3 @@
 # ficherenseignements
-Projet HTML/CSS du 18 novembre 2020 en NSI.
+Projet HTML/CSS en NSI: mise en page d'une fiche de renseignements sur page web.
 Lien vers la page web: https://denisdoryan.github.io/ficherenseignements/
