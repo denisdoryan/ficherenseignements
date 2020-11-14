@@ -1,7 +1,7 @@
 .titreprincipal 
 {
 	text-align: center;
-	border: 2px ridge black;
+	border: 10px double black;
 }
 
 .naissance
@@ -90,4 +90,28 @@ th, td
 td 
 {
  text-align:center;
+}
+
+.titrecompetences
+{
+	color: orange; background-color: yellow;
+}
+
+.titreetudes
+{
+	color: red; background-color: #FB6262;
+}
+
+.competences
+{
+	background-color: #E5F761;
+	border: 2px ridge black;
+	border-radius:10px 10px;
+}
+
+.etudes
+{
+	background-color: #F78F7A;
+	border: 2px ridge black;
+	border-radius:10px 10px;
 }
