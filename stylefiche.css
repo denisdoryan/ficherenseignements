@@ -51,14 +51,16 @@
 
 .college
 {
-	background-color: aqua;
+	background-color: #7DBAE2;
 	border: 2px ridge black;
+	border-radius:10px 10px;
 }
 
 .lycee
 {
-	background-color: lime;
+	background-color: #98F29F;
 	border: 2px ridge black;
+	border-radius:10px 10px;
 }
 
 .sitecollege
