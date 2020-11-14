@@ -1,0 +1,20 @@
+.titreprincipal 
+{
+	text-align: center;
+	border: 2px black;
+}
+
+.naissance
+{
+	margin-top: 10;
+}
+
+.prenom
+{
+	margin-left: 10;
+}
+
+.mail
+{
+	margin-top: 10;
+}
