@@ -1,7 +1,7 @@
 .titreprincipal 
 {
 	text-align: center;
-	border: 2px black;
+	border: 2px ridge black;
 }
 
 .naissance
@@ -17,4 +17,10 @@
 .mail
 {
 	margin-top: 10;
+}
+
+.photoDor
+{
+	position: fixed ;
+	right: 40px; top: 60px;
 }
