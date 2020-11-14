@@ -28,11 +28,13 @@
 .titrecollege
 {
 	color: navy; background-color: aqua;
+	text-decoration: underline;
 }
 
 .titrelycee
 {
 	color: green; background-color: lime;
+	text-decoration: underline;
 }
 
 .photocollege
@@ -95,23 +97,11 @@ td
 .titrecompetences
 {
 	color: orange; background-color: yellow;
+	text-decoration: underline;
 }
 
 .titreetudes
 {
 	color: red; background-color: #FB6262;
-}
-
-.competences
-{
-	background-color: #E5F761;
-	border: 2px ridge black;
-	border-radius:10px 10px;
-}
-
-.etudes
-{
-	background-color: #F78F7A;
-	border: 2px ridge black;
-	border-radius:10px 10px;
+	text-decoration: underline;
 }
